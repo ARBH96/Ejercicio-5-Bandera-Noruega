@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+    justify-content: center;
+}
+
+#Bandera{
+    border: 1px solid black;
+    height: 400px;
+    width: 600px;
+    position: relative;
+    align-items: center;
+}
+
+#rojo{
+    height: 160px;
+    width: 160px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#blanco{
+    height: 400px;
+    width: 90px;
+    background-color: white;
+    position: absolute;
+    top: 1px; left: 330px;
+    transform: translateX(-188%);
+    bottom: 0px;
+}
+
+#blanco1{
+    height: 90px;
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    top: 160px; left: 28px;
+    transform: translateX(-5%);
+    bottom: 0px;
+}
+
+#azul{
+    height: 50px;
+    width: 600px;
+    background-color: #052c53;
+    position: absolute;
+    top: 180px;
+    left: 180px;
+    transform: translateX(-30%);
+}
+
+#azul1{
+    height: 400px;
+    width: 50px;
+    background-color: #052c53;
+    top: 170px; left: 30px;
+    transform: translateX(360%);
+    bottom: 0px;
+}
+
+#rojo1{
+    height: 160px;
+    width: 350px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#rojo2{
+    height: 150px;
+    width: 160px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+#rojo3{
+    height: 150px;
+    width: 350px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+    
